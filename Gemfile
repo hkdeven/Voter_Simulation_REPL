@@ -17,3 +17,4 @@ install
 -------
 
 * gem install colorize
+*Note:* You may need to use sudo to install gems
